@@ -2,5 +2,3 @@
 
 
 
-
-password = 'SKdfhiu2yf12!!1'
